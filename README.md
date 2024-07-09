@@ -1,5 +1,5 @@
-# 💫 About Me:
-Learning more about advanced Next.js features<br>Improving web app performance<br>Exploring serverless architecture and CI/CD pipelines<br>Experimenting with TypeScript for better code quality<br>Contributing to open source projects
+# 💫 Hi there! I'm Umair Raaz
+Full-Stack Developer | Next.js Enthusiast<br>Welcome to my GitHub profile! I am a passionate full-stack developer with 2 years of experience specializing in building modern web applications using a wide range of technologies.<br><br>Learning more about advanced Next.js features<br>Improving web app performance<br>Exploring serverless architecture and CI/CD pipelines<br>Experimenting with TypeScript for better code quality<br>Contributing to open source projects
 
 
 ## 🌐 Socials:
@@ -18,5 +18,7 @@ Learning more about advanced Next.js features<br>Improving web app performance<b
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UmairRaaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=UmairRaaz&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
